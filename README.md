@@ -1,4 +1,4 @@
-# 🧠 YZ50 - Neural Networks: Zero to Hero (Pure Python Implementation)
+# 🧠 YZ50 - Neural Networks: (Pure Python Implementation)
 
 Bu proje, **`PyTorch`**, **`NumPy`** veya **`TensorFlow`** gibi harici hiçbir yüksek seviyeli kütüphane kullanılmaksızın, tamamen **saf Python** veri yapıları ve temel matematiksel prensipler aracılığıyla sıfırdan inşa edilmiş bir yapay sinir ağı (Artificial Neural Network) simülasyonudur.
 
