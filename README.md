@@ -115,7 +115,7 @@ Eğitim sürecindeki hatanın düşüşü ve tahminin hedefe yakınşaması adı
   * **Güncellenmiş Ağırlıklar ($W$):** $[1.1262, 0.3392, -0.2131]$
   * **Güncellenmiş Sapma ($b$):** $1.5131$
 
-## 💻 Kurulum ve Çalıştırma
+## 💻 Kurulum ve Kullanım
 
 1. **Depoyu Klonlayın:**
 ```bash
