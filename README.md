@@ -135,7 +135,7 @@ pip install matplotlib jupyter
 jupyter notebook neural_network.ipynb
 ```
 
-**Kaynaklar ve Referanslar**
+**Kaynaklar**
 
 * 🧠 [The Mechanics of Neural Networks and Backpropagation](https://gemini.google.com/notebook/f5d9d368-e581-4235-9784-c58e17b0fc36) — *NotebookLM Çalışma Alanı*
 * 🎥 **Andrej Karpathy:** *The spelled-out intro to neural networks and backpropagation: building micrograd*
