@@ -14,7 +14,7 @@ Projenin temel amacı; Andrej Karpathy'nin *Micrograd* yaklaşımı ve 3Blue1Bro
   - [3. Kayıp Fonksiyonu (Mean Squared Error - MSE)](#3-kayıp-fonksiyonu-mean-squared-error---mse)
   - [4. Parametre Analizi ve Kayıp Eğrisi (Optimization Landscape)](#4-parametre-analizi-ve-kayıp-eğrisi-optimization-landscape)
   - [5. Sayısal Türev ve Gradient Descent Döngüsü](#5-sayısal-türev-ve-gradient-descent-döngüsü)
-- [Modelin Eğitimi ve Deney Sonuçları](#-model-eğitimi-ve-deney-sonuçları)
+- [Modelin Eğitimi ve Deney Sonuçları](#-modelin-eğitimi-ve-deney-sonuçları)
 - [Kurulum ve Kullanım](#-kurulum-ve-kullanım)
 - [Kaynaklar](#-kaynaklar)
 
